@@ -1,0 +1,6 @@
+// git --version                              To Confirm that Git is installed in your PC
+// git config --global user.name "jawad491"                  To initialize
+// git config --global user.email "quizzteam75@gmail.com"    To initialize
+// git init                                                  To create Empty repository locally
+// git add .                                                 To add current project in that repository
+//git commit -m "My first Commit"                               To commit changes
